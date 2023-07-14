@@ -5,7 +5,7 @@
 ```
 
 ## 💼 WORKING ON
-Tianjin XM Technology Co., Ltd
+Tianjin XM Technology Co., Ltd  
 ~~China Everbright Bank Sub branch~~
 
 ## 💪 SKILL
