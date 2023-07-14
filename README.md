@@ -7,7 +7,7 @@ Tianjin XM Technology Co., Ltd
 ~~China Everbright Bank Sub branch~~
 
 ## 💪 SKILL
-~~网络中级能力~~Wanna switch to the cybersecurity industry.
+~~网络中级能力~~Wanna switch to the cybersecurity industry.  
 使用类Unix环境，使用Docker、Git、VSCode等工具完成日常运维开发工作，拥有Ubuntu、Debian、Centos等Linux环境开发、运维经验，维护基础设施和CI等自动化服务。
 
 
