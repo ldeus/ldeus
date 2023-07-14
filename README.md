@@ -6,7 +6,7 @@
 
 ## 💼 WORKING ON
 Tianjin XM Technology Co., Ltd  
-~~China Everbright Bank Sub branch~~
+China Everbright Bank Sub branch
 
 ## 💪 SKILL
 ~~网络中级能力~~Wanna switch to the cybersecurity industry.  
